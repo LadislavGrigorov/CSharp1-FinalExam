@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\Exam\ExamCSharp\01.TreeSixNine\bin\Debug\01.TreeSixNine.exe.config
+D:\Telerik\C# Part I\Exam\ExamCSharp\01.TreeSixNine\bin\Debug\01.TreeSixNine.exe
+D:\Telerik\C# Part I\Exam\ExamCSharp\01.TreeSixNine\bin\Debug\01.TreeSixNine.pdb
+D:\Telerik\C# Part I\Exam\ExamCSharp\01.TreeSixNine\obj\Debug\01.TreeSixNine.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\Exam\ExamCSharp\01.TreeSixNine\obj\Debug\01.TreeSixNine.exe
+D:\Telerik\C# Part I\Exam\ExamCSharp\01.TreeSixNine\obj\Debug\01.TreeSixNine.pdb

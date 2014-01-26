@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\Exam\ExamCSharp\04.DiamondTrolls\bin\Debug\04.DiamondTrolls.exe.config
+D:\Telerik\C# Part I\Exam\ExamCSharp\04.DiamondTrolls\bin\Debug\04.DiamondTrolls.exe
+D:\Telerik\C# Part I\Exam\ExamCSharp\04.DiamondTrolls\bin\Debug\04.DiamondTrolls.pdb
+D:\Telerik\C# Part I\Exam\ExamCSharp\04.DiamondTrolls\obj\Debug\04.DiamondTrolls.exe
+D:\Telerik\C# Part I\Exam\ExamCSharp\04.DiamondTrolls\obj\Debug\04.DiamondTrolls.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\Exam\ExamCSharp\05. Warhead\bin\Debug\_05.Warhead.exe.config
+D:\Telerik\C# Part I\Exam\ExamCSharp\05. Warhead\bin\Debug\_05.Warhead.exe
+D:\Telerik\C# Part I\Exam\ExamCSharp\05. Warhead\bin\Debug\_05.Warhead.pdb
+D:\Telerik\C# Part I\Exam\ExamCSharp\05. Warhead\obj\Debug\05. Warhead.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\Exam\ExamCSharp\05. Warhead\obj\Debug\_05.Warhead.exe
+D:\Telerik\C# Part I\Exam\ExamCSharp\05. Warhead\obj\Debug\_05.Warhead.pdb
